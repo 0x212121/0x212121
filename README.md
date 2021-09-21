@@ -1,4 +1,4 @@
-<h3 align="center">Welcome to my GitHub profile</h3>
+<h1 align="center">Welcome to my GitHub profile</h3>
 
 <!--
 **0x212121/0x212121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,8 +18,12 @@ Here are some ideas to get you started:
 |![](https://github-readme-stats.vercel.app/api?username=0x212121&show_icons=true&theme=dracula)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=0x212121&theme=dracula&layout=compact&langs_count=10)|
 |-|-|
 
+- I'm currently working on Sangatta, Kalimantan Timur, Indonesia as Desktop support Engineer
 
-#### Tech Stack
+
+## Languages
+---
+**Programming**
 - Javascript
 - HTML
 - CSS
@@ -27,3 +31,8 @@ Here are some ideas to get you started:
 - SQL
 - Git
 - Docker
+
+**Natural**
+- Indonesian (Native)
+- English
+---
