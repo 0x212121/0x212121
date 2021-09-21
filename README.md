@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 
 ### Welcome to my github profile
 
-[![0x212121's GitHub stats](https://github-readme-stats.vercel.app/api?username=0x212121&show_icons=true&theme=dracula)](https://github.com/0x212121/github-readme-stats)
+<a href="https://github.com/0x212121/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=0x212121&show_icons=true&theme=dracula" align="center" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x212121&exclude_repo=github-readme-stats,0x212121.github.io)](https://github.com/0x212121/github-readme-stats)
+<a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x212121&exclude_repo=github-readme-stats,0x212121.github.io" align=center>
+</a>
