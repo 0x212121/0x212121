@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 
 |![](https://github-readme-stats.vercel.app/api?username=0x212121&show_icons=true&theme=dracula)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=0x212121&theme=dracula&layout=compact&langs_count=10)|
 |-|-|
@@ -22,17 +23,21 @@ Here are some ideas to get you started:
 
 
 ## Languages
----
 **Programming**
-- Javascript
-- HTML
-- CSS
-- Python
-- SQL
-- Git
-- Docker
+- Javascript <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg alt=JS width="30" height="30">
+- HTML <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg alt=html5 width="30" height="30">
+- CSS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="30" height="30">
+- Python <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg alt=python width="30" height="30">
+- mySQL <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg alt=mysql width="30" height="30">
+- Git <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg alt=git width="30" height="30">
+- Docker <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg alt=git width="30" height="30">
 
 **Natural**
 - Indonesian (Native)
 - English
 ---
+## Tools
+- Veritas NetBackup
+- Docker
+- Nmap
+- Metasploit
