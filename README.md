@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 Welcome to my github profile
+
+[![0x212121's GitHub stats](https://github-readme-stats.vercel.app/api?username=0x212121)](https://github.com/0x212121/github-readme-stats)
