@@ -1,4 +1,4 @@
-### Hi Guest 👋
+<h3 align="center">Hi Guest 👋</h3>
 
 <!--
 **0x212121/0x212121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,10 +17,5 @@ Here are some ideas to get you started:
 
 ### Welcome to my github profile
 
-<a href="https://github.com/0x212121/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=0x212121&show_icons=true&theme=dracula" align="center" />
-</a>
-
-<a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x212121&exclude_repo=github-readme-stats,0x212121.github.io" align=center>
-</a>
+|![](https://github-readme-stats.vercel.app/api?username=0x212121&show_icons=true&theme=dracula)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=0x212121&theme=dracula&layout=compact&langs_count=10)|
+|-|-|
