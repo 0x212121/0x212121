@@ -24,13 +24,28 @@ Here are some ideas to get you started:
 
 ## Languages
 **Programming**
-- Javascript <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg alt=JS width="30" height="30">
+<table>
+  <tr>
+    <td align="center"><img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg alt=JS width="30" height="30"></td>
+    <td><img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg alt=html5 width="30" height="30"></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="30" height="30"></td>
+    <td><img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg alt=python width="30" height="30"></td>
+  </tr>
+  <tr>
+    <td>Javascript</td>
+    <td>HTML</td>
+    <td>CSS</td>
+    <td>Python</td>
+  </tr>
+</table>
+
+<!-- - Javascript <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg alt=JS width="30" height="30">
 - HTML <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg alt=html5 width="30" height="30">
 - CSS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="30" height="30">
 - Python <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg alt=python width="30" height="30">
 - mySQL <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg alt=mysql width="30" height="30">
 - Git <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg alt=git width="30" height="30">
-- Docker <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg alt=git width="30" height="30">
+- Docker <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg alt=git width="30" height="30"> -->
 
 **Natural**
 - Indonesian (Native)
