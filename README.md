@@ -48,7 +48,11 @@ Here are some ideas to get you started:
 - Docker <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg alt=git width="30" height="30"> -->
 
 **Natural**
-- Indonesian (Native)
+<ul>
+<li><img src"https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/id.svg"> Indonesian (Native)</li>
+<li><img src"https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/en.svg"> English</li>
+</ul>
+
 - English
 ---
 ## Tools
