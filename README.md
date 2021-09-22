@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 **Natural**
 <ul>
-<li><img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/id.svg" height="15"> Indonesian (Native)</li>
+<li><img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/id.svg" height="15"> Indonesia (Native)</li>
 <li><img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/us.svg" height="15"> English</li>
 </ul>
 ---
