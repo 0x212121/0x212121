@@ -49,11 +49,9 @@ Here are some ideas to get you started:
 
 **Natural**
 <ul>
-<li><img src"https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/id.svg"> Indonesian (Native)</li>
-<li><img src"https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/en.svg"> English</li>
+<li><img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/id.svg"> Indonesian (Native)</li>
+<li><img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/en.svg"> English</li>
 </ul>
-
-- English
 ---
 ## Tools
 - Veritas NetBackup
