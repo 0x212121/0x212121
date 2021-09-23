@@ -48,7 +48,6 @@ Here are some ideas to get you started:
 <li><img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/us.svg" height="15"> English</li>
 </ul>
 
-
 ## Tools
 - Veritas NetBackup
 - Docker <td align="center"><img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg alt=docker width="30" height="30"></td>
@@ -58,3 +57,6 @@ Here are some ideas to get you started:
 ## Stats
 |![](https://github-readme-stats.vercel.app/api?username=0x212121&show_icons=true&theme=dracula)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=0x212121&theme=dracula&layout=compact&langs_count=10)|
 |-|-|
+
+## Contact
+<a href="https://www.linkedin.com/in/wijayaindra21/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width=30px height=30px></a>
