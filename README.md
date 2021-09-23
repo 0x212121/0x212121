@@ -1,4 +1,4 @@
-<h2>Hi buddy 👋, Welcome to my GitHub profile</h2>
+Hi buddy 👋, Welcome to my GitHub profile
 
 <!--
 **0x212121/0x212121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -49,10 +49,14 @@ Here are some ideas to get you started:
 </ul>
 
 ## Tools
-- Veritas NetBackup
-- Docker <td align="center"><img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg alt=docker width="30" height="30"></td>
-- Nmap
-- Metasploit
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width=30px height=30px>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width=30px height=30px>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width=30px height=30px>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width=30px height=30px>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width=30px height=30px>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" width=30px height=30px>
+</p>
 
 ## Stats
 |![](https://github-readme-stats.vercel.app/api?username=0x212121&show_icons=true&theme=dracula)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=0x212121&theme=dracula&layout=compact&langs_count=10)|
