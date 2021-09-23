@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my GitHub profile</h3>
+<h2>Hi buddy 👋, Welcome to my GitHub profile</h2>
 
 <!--
 **0x212121/0x212121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,12 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
-
-|![](https://github-readme-stats.vercel.app/api?username=0x212121&show_icons=true&theme=dracula)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=0x212121&theme=dracula&layout=compact&langs_count=10)|
-|-|-|
-
-- I'm currently working on Sangatta, Kalimantan Timur, Indonesia as Desktop support Engineer
-
 
 ## Languages
 **Programming**
@@ -56,6 +50,10 @@ Here are some ideas to get you started:
 
 ## Tools
 - Veritas NetBackup
-- Docker
+- Docker <td align="center"><img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg alt=docker width="30" height="30"></td>
 - Nmap
 - Metasploit
+
+## Stats
+|![](https://github-readme-stats.vercel.app/api?username=0x212121&show_icons=true&theme=dracula)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=0x212121&theme=dracula&layout=compact&langs_count=10)|
+|-|-|
