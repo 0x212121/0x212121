@@ -22,9 +22,15 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td align="center"><img src=https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/docker/docker-plain.svg alt=Docker width="30" height="30"></td>
+    <td align="center"><img src=https://raw.githubusercontent.com/walkxcode/dashboard-icons/refs/heads/main/svg/vmware.svg alt=Vmware width="30" height="30"></td>
+    <td align="center"><img src=https://raw.githubusercontent.com/walkxcode/dashboard-icons/refs/heads/main/svg/proxmox.svg alt=Proxmox width="30" height="30"></td>
+    <td align="center"><img src=https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/docker-compose.png alt=Compose width="30" height="30"></td>
   </tr>
   <tr>
     <td>Docker</td>
+    <td>VMWare</td>
+    <td>Proxmox</td>
+    <td>Docker Compose</td>
   </tr>
 </table>
 
